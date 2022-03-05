@@ -1,6 +1,6 @@
-'''
+"""
 Не проверялось на реальном коптере!
-'''
+"""
 
 from pioneer_sdk.asynchronous import Pioneer
 import cv2
